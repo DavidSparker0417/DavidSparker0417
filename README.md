@@ -6,7 +6,7 @@
 ### <div align="center">I'm David, one of the IT engineer🏃 who like dive in🏊‍♂️ new area of software technology.💫</div>  
   
 
-- 🌱 I’m currently learning full-stack development using various framework.  
+- 🌱 I’m currently passionate in Blockchain development.  
   
 
 <br/>  
