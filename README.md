@@ -90,9 +90,9 @@
 <a href="https://stackoverflow.com/users/DavidSparker0417" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<span>
+<ul>
  <a href="https://t.me/DavidSparker" target="_blank">My Telegram : DavidSparker</a>
-<span>
+</ul>
 </div>  
   
 
