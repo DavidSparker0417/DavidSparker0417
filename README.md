@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm David, one of the software engineer🏃 who like dive in🏊‍♂️ new area of software technology.💫</div>  
+### <div align="center">I'm a enthusiastic blockchain and full stack web engineer🏃 who like dive in🏊‍♂️ new area of software technology.💫</div>  
   
 
 - 🌱 I’m currently passionate in Blockchain development.  
